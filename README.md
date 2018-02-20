@@ -37,7 +37,7 @@ A few *guidelines* all presentations should follow:
 
 * Talks should be around 20-30 minutes (no longer than ~30)
 * Demos, examples, interactivity, etc. are encouraged!
-* Always start with an introduction of yourself and [ELI5](https://xkcd.com/1364/) of the topic.
+* Always start with an introduction of yourself and quick [ELI5](https://xkcd.com/1364/) of the topic.
 * Presentations should have at least some cohesive flow (slides not required)
 * One of the [organizers](https://github.com/orgs/orchestructure/people) should review your presentation resources (i.e. slides) at least 1 week prior to the meet-up
 * Be ready to talk *no later* than 10 minutes after meet-up start (~6:10pm)
